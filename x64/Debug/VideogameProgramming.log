@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\4t carrera\programación de juegos\Asteroids 1.0\Programacio-Videojocs-8-ECS\VideogameProgramming\main.cpp(166,14): warning C4244: 'inicializando': conversión de 'clock_t' a 'float'; posible pérdida de datos
+E:\4t carrera\programación de juegos\Asteroids 1.0\Programacio-Videojocs-8-ECS\VideogameProgramming\main.cpp(200,16): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+E:\4t carrera\programación de juegos\Asteroids 1.0\Programacio-Videojocs-8-ECS\VideogameProgramming\ECS.h(1080,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\4t carrera\programación de juegos\Asteroids 1.0\Programacio-Videojocs-8-ECS\VideogameProgramming\main.cpp(113): message : Vea la referencia a la creación de una instancia de la función plantilla "ECS::ComponentHandle<CircleCollider> ECS::Entity::assign<CircleCollider,int>(int &&)" que se está compilando
+E:\4t carrera\programación de juegos\Asteroids 1.0\Programacio-Videojocs-8-ECS\VideogameProgramming\ECS.h(1091,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  VideogameProgramming.vcxproj -> E:\4t carrera\programación de juegos\Asteroids 1.0\Programacio-Videojocs-8-ECS\VideogameProgramming\x64\Debug\VideogameProgramming.exe
